@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplikasi Kalkulator BMI</string>
+    <string name="label_bobot">Bobot (kg)</string>
+    <string name="height">Tinggi (cm)</string>
+    <string name="calculateBMI">Hitung BMI</string>
+
+    <string name="labelAplikasi">Kalkulator BMI</string>
+    <string name="labelUmur">Umur (th)</string>
+    <string name="logo_plus">+</string>
+    <string name="logo_minus">-</string>
+    <string name="kalkulator_bmi">Kalkulator BMI</string>
+    <string name="terlalu_sangat_kurus">terlalu sangat kurus</string>
+    <string name="sangat_kurus">sangat kurus</string>
+    <string name="kurus">kurus</string>
+    <string name="normal">normal</string>
+    <string name="gemuk">gemuk</string>
+    <string name="cukup_gemuk">cukup gemuk</string>
+    <string name="sangat_gemuk">sangat gemuk</string>
+    <string name="terlalu_sangat_gemuk">terlalu sangat gemuk</string>
+    <string name="weight_diary">Weight Diary</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="ft">ft</string>
+    <string name="kg">kg</string>
+    <string name="lb">lb</string>
+    <string name="skip">Skip ></string>
+</resources>
